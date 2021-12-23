@@ -88,3 +88,13 @@
   color: hsl(0, 0%, 59%);
   font-size: 12px;
 }
+.top_pattern {
+  position: fixed;
+  bottom: 50%;
+  right: 50%;
+}
+.bottom_pattern {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
